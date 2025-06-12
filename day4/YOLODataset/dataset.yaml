@@ -1,0 +1,4 @@
+train: C:\Users\wang\Desktop\cat_dog\YOLODataset/images/train/
+val: C:\Users\wang\Desktop\cat_dog\YOLODataset/images/val/
+nc: 2
+names: ["cat", "dog"]
